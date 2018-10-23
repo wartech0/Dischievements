@@ -1,0 +1,24 @@
+{
+  "name": "dischievments",
+  "version": "1.0.0",
+  "description": "Simple discord bot that tracks and records users achievments, provides a discord and web frontend to view  achievements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wartech0/Dischievements.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Achievements"
+  ],
+  "author": "wartech0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wartech0/Dischievements/issues"
+  },
+  "homepage": "https://github.com/wartech0/Dischievements#readme"
+}
