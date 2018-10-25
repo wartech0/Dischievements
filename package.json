@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/wartech0/Dischievements/issues"
   },
-  "homepage": "https://github.com/wartech0/Dischievements#readme"
+  "homepage": "https://github.com/wartech0/Dischievements#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "koa": "^2.6.0",
+    "koa-router": "^7.4.0",
+    "natural": "^0.6.1"
+  }
 }
