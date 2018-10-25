@@ -11,7 +11,11 @@ bot.on("message", async message => {
   //do not process messages from bots
   if(message.author.bot) return;
 
-  console.log(message.author.username + ":" + message.content);
+  //route messages to a achievement handler
 });
+
+bot.on("error", err => {
+  console.error(err);
+})
 
 bot.login(config.token);
