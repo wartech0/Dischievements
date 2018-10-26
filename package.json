@@ -25,6 +25,7 @@
     "discord.js": "^11.4.2",
     "koa": "^2.6.0",
     "koa-router": "^7.4.0",
-    "natural": "^0.6.1"
+    "natural": "^0.6.1",
+    "redis": "^2.8.0"
   }
 }
