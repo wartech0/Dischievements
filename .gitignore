@@ -1,3 +1,6 @@
+#bot token file
+botconfig.json
+
 # Logs
 logs
 *.log
